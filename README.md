@@ -1,7 +1,7 @@
 # ♟️ Chess Game using C++ & SFML
 
 <p align="center">
-  <img src="assets/chessboard.png" alt="Chess Game Banner" width="800"/>
+  <img src="chessboard.png" alt="Chess Game Banner" width="800"/>
 </p>
 
 <h3 align="center">A Fully Object-Oriented Chess Game Built with C++ and SFML</h3>
@@ -22,16 +22,6 @@
 This project is a **graphical Chess game built using C++ and SFML (Simple and Fast Multimedia Library)**.
 
 It demonstrates strong **Object-Oriented Programming (OOP)** principles and real-time rendering using SFML.
-
----
-
-## 📷 Preview  
-
-<p align="center">
-  <img src="assets/chessboard.png" alt="Chess Gameplay" width="600"/>
-  <br>
-  <em>Real-time chessboard rendering using SFML</em>
-</p>
 
 ---
 
