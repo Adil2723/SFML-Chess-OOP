@@ -1,7 +1,7 @@
 # ♟️ Chess Game using C++ & SFML
 
 <p align="center">
-  <img src="./assets/chessboard.png" alt="Chess Game Banner" width="500"/>
+  <img src="./chessboard.png" alt="Chess Game Banner" width="500"/>
 </p>
 
 <h3 align="center">A Fully Object-Oriented Chess Game Built with C++ and SFML</h3>
