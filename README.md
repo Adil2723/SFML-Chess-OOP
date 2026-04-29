@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Graphics-SFML-green" />
   <img src="https://img.shields.io/github/license/Adil2723/1v1-Chess?color=blue" />
-  <img src="https://img.shields.io/github/repo-size/Adil2723/1v1-Chess?color=orange" />
-  <img src="https://img.shields.io/github/contributors/Adil2723/1v1-Chess?color=yellow" />
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen" />
 </p>
 
