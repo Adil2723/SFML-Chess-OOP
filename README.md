@@ -1,15 +1,14 @@
 # ♟️ Chess Game using C++ & SFML
 
 <p align="center">
-  <img src="./chessboard.png" alt="Chess Game Banner" width="500"/>
+  <img src="./chess.png" alt="Chess Game Banner" width="650"/>
 </p>
 
 <h3 align="center">A Fully Object-Oriented Chess Game Built with C++ and SFML</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Graphics-SFML-green" />
-  <img src="https://img.shields.io/github/license/Adil2723/1v1-Chess?color=blue" />
+  <img src="https://img.shields.io/badge/Library-SFML-2ECC71" />
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen" />
 </p>
 
